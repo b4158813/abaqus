@@ -1,4 +1,4 @@
-# abaus
+# abaqus
 abaqus 安装bug
 
 ## 问题1：安装完成后找不到从哪打开abaqus软件？！
