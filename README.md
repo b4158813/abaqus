@@ -71,6 +71,7 @@ abaqus 安装bug
 
 若在上述操作中出现了如下问题：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902232303763.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+
 参考以下解决方案：[mfc100u.dll加载失败解决方案](https://jingyan.baidu.com/article/ad310e80f8cef91848f49e74.html)
 
 
