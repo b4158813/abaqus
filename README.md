@@ -32,22 +32,33 @@ abaqus 安装bug
 
 ***这说明你没有启动license的server***
 **解决方法：去启动一下就完事儿了**
-打开你放license的文件目录，启动Imtools.exe![比如我是这里](https://img-blog.csdnimg.cn/20190902230759781.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+
+打开你放license的文件目录，启动Imtools.exe
+![比如我是这里](https://img-blog.csdnimg.cn/20190902230759781.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+
 按如图所示依次点击（这里默认你的证书文件设置都是正确的），然后关闭，再去启动辣个快捷方式即可！
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902230923237.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
 
 ## 问题3：按照问题1的解决步骤进行，最后出现的却是这个界面？！
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902231312207.png)
 
 *****这说明你的abq6144.bat内文件路径的设置有问题（即没有连接上主程序）*****
 **解决方法：把路径改成正确的abq6144.bat路径就行了**
 
 找到abq6144.bat文件，右击->编辑
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902231515117.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+
 改正错误的文件路径（比如我这里sb乱入错导致，应该是Abaqus）
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902231605289.png)
+
 改成自己正确的文件路径之后：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902231729477.png)
+
 保存关闭即可
 
 
@@ -63,6 +74,7 @@ abaqus 安装bug
 参考以下解决方案：[mfc100u.dll加载失败解决方案](https://jingyan.baidu.com/article/ad310e80f8cef91848f49e74.html)
 
 
-> **最后，如果觉得文件的图标不好看，可以考虑修改（右击->属性->更改图标->浏览->按如下路径找到图标即可）![我是这样的](https://img-blog.csdnimg.cn/20190902232642861.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+> **最后，如果觉得文件的图标不好看，可以考虑修改（右击->属性->更改图标->浏览->按如下路径找到图标即可）
+![我是这样的](https://img-blog.csdnimg.cn/20190902232642861.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
 
 
