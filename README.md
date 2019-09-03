@@ -31,6 +31,7 @@ abaqus 安装bug
 
 
 ***这说明你没有启动license的server***
+
 **解决方法：去启动一下就完事儿了**
 
 打开你放license的文件目录，启动Imtools.exe
