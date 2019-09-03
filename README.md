@@ -5,15 +5,24 @@ abaqus 安装bug
 **解决方法：按以下步骤来**
 
  找到安装目录下的abq6144.bat批处理文件，如下图所示
+ 
 ![比如我是安装在这个目录下的](https://img-blog.csdnimg.cn/20190902225506236.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+
  右击->发送到->桌面快捷方式，在桌面上找到这个快捷方式，右击->属性
+ 
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019090222565167.png)
+ 
  在“目标”这一栏后面加上 “ cae||pause” ，点击确定
+ 
  ![](https://img-blog.csdnimg.cn/20190902225902623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902230117637.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+ 
  这样就可以啦！双击运行吧！
  （运行时会弹出来一个命令提示符窗口，如下图所示，等会儿就成功啦）
+ 
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902230227867.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDA0MjY0Mw==,size_16,color_FFFFFF,t_70)
+ 
  出来这个界面就表示成功啦
+ 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190902230416393.png)
 
 ## 问题2：按照问题1的解决步骤进行，最后出现的却是这个界面？！
